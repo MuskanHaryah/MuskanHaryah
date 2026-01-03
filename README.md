@@ -79,7 +79,7 @@ Want to know more about me? Check out my [portfolio](https://your-portfolio-url.
 
 [comment]: <> (Snake eating my contributions)
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuskanHaryah/MuskanHaryah/output/github-contribution-grid-snake.svg" />
   <br/><br/>
 </div>
 

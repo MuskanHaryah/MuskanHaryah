@@ -16,7 +16,7 @@ I have gained hands-on experience in both Django and MERN Stack development. I l
 
 I am enthusiastic about Artificial Intelligence, always eager to learn and explore cutting-edge technologies.
 
-Want to know more about me? Check out my [portfolio](https://your-portfolio-url.com).
+Want to know more about me? Check out my [portfolio](https://muskanharyah.netlify.app/).
 
 <br clear="right"/>
 

@@ -69,7 +69,7 @@ Want to know more about me? Check out my [portfolio](https://muskanharyah.netlif
 
  **NED University of Engineering & Technology**
 - 📚 Bachelor of Software Engineering (Expected 2027)
-- 🏆 3rd Year Student
+- 🏆 Final Year Student
 - 💡 Focus: Full-Stack Development, Database Systems, Software Architecture
 
 ---
